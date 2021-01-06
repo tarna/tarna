@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**tarna/tarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hey, I'm Tarna 👋</h1><br />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Main Projects</h2>
+- TarnaBot (A Discord Bot which will have a variety of features such as moderation, games, eco, api, and many more. Still a WIP so doesn't have many features yet.)<br />
+
+<h2>Side Projects</h2>
+- minehut.xyz (Manager)<br />
+- Minehut Stats (Website that shows many data about Minehut such as server info, plugin info, Minehut info and many others.)<br />
+
+<br />
+
+![Tarna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarna&show_icons=true&theme=dracula)<br />
+![Tarna's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarna&show_icons=true&theme=dracula)<br />
