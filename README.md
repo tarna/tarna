@@ -5,7 +5,7 @@
 </div>
 
 <h2>Main Projects</h2>
-- TarnaBot (A Discord Bot which will have a variety of features such as moderation, games, eco, api, and many more. Still a WIP so doesn't have many features yet.)<br />
+- PlayerLogs (Minecraft Spigot plugin that logs various events into log files)<br />
 
 <h2>Side Projects</h2>
 - minehut.xyz (Manager)<br />
