@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarna</h1>
-<h3 align="center">A am a developer</h3>
+<h3 align="center">I am a developer</h3>
 
 <p align="left"> <a href="https://twitter.com/tarna_256" target="blank"><img src="https://img.shields.io/twitter/follow/tarna_256?logo=twitter&style=for-the-badge" alt="tarna_256" /></a> </p>
 
