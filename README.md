@@ -2,6 +2,7 @@
 <h3 align="center">I am a developer</h3>
 
 <p align="left"> <a href="https://twitter.com/tarna_256" target="blank"><img src="https://img.shields.io/twitter/follow/tarna_256?logo=twitter&style=for-the-badge" alt="tarna_256" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarna&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="tarna" /> </p>
 
 - 🔭 I’m currently working on [PlayerLogs](https://github.com/tarna/PlayerLogs)
 
