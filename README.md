@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarna</h1>
 <h3 align="center">I am a developer</h3>
+<h4 align="center">Discord: @tarna256</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarna&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="tarna" /> </p>
 
