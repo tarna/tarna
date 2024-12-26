@@ -2,6 +2,15 @@
 <h3 align="center">I am a developer</h3>
 <h4 align="center">Discord: @tarna256</h4>
 
+# Projects
+- [MinehutStuff](https://github.com/tarna/MinehutStuff) - An unofficial [Minehut](https://minehut.com) Discord bot with many different Minehut related features.
+- [MoreTweaks](https://github.com/tarna/MoreTweaks) - A Minecraft plugin that adds a bunch of different useful modifications and recipes to the game.
+- [SkLunar](https://github.com/tarna/SkLunar) - A Skript Addon to interact with Lunar Client server API.
+- [Minehut](https://github.com/jellz/minehut) - A TypeScript library to interact with the Minehut API.
+- [random-server](https://github.com/tarna/random-server) - A Minestom server that transfers the player to a random Minecraft server.
+
+
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarna&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="tarna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarna&theme=dracula" alt="tarna" /></a> </p>
