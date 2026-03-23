@@ -13,7 +13,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarna&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="tarna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarna&theme=dracula" alt="tarna" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=tarna&theme=dracula" alt="tarna" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tarna_256" target="blank"><img src="https://img.shields.io/twitter/follow/tarna_256?logo=twitter&style=for-the-badge&theme=dracula" alt="tarna_256" /></a> </p>
 
