@@ -61,8 +61,8 @@
   <a href="https://unrealengine.com/" target="_blank"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarna&layout=compact&theme=dracula" alt="tarna" /></p>
+<p><img align="left" src="https://grs.tarna.dev/api/top-langs/?username=tarna&layout=compact&theme=dracula" alt="tarna" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarna&show_icons=true&locale=en&theme=dracula" alt="tarna" /></p>
+<p>&nbsp;<img align="center" src="https://grs.tarna.dev/api?username=tarna&show_icons=true&locale=en&theme=dracula" alt="tarna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarna&theme=dracula" alt="tarna" /></p>
